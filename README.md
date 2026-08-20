@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Viana, tenho 18 anos, sou Técnico em Informática formado pelo IFTO (Campus Araguaína) e atualmente estudante de Análise e Desenvolvimento de Sistemas na mesma instituição. Sou viciado em tecnologia desde os 12 anos e estou iniciando minha trajetória no desenvolvimento de software com muito empenho e ânimo. Gosto muito de inovação, IA, automação e de desenvolver soluções. Estou aberto a projetos e oportunidades de emprego!
+Me chamo Rafael Viana, tenho 18 anos, sou Técnico em Informática formado pelo IFTO (Campus Araguaína) e atualmente graduando em Engenharia de Software pela UFNT (Universidade Federal do Norte do Tocantins). Tive meu primeiro contato com tecnologia aos 12 anos de idade e estou construindo minha carreira no desenvolvimento de software com muito empenho e ânimo. Gosto muito de inovação, IA, automação, programação e de desenvolver soluções que atendem problemas reais. Estou aberto a projetos e novas oportunidades!
 
 ---
 <h3 align="left">💻 Tecnologias e Ferramentas</h3>
